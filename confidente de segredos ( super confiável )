@@ -1,0 +1,4 @@
+s= input ('\033[32m me diga um segredo… '
+print ('\033[m agora seu segredo está seguro comigo…')
+print (f'{\033[31m} {S}' )
+print (f'{\033[33m} foi mal, não me aguentei… '
